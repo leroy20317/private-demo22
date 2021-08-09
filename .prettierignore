@@ -1,0 +1,8 @@
+# 忽略打包的文件
+build
+mock
+node_modules
+public
+.eslintignore
+.eslintrc.js
+*.config.js
